@@ -1,0 +1,3 @@
+group,n_columns,perm_MAE_increase,perm_MAE_std,perm_R2_drop
+Usage: car_age + mileage + mileage_per_year,3,3447.422683116136,38.57450394737508,0.45032386697317695
+Brand: Make + Model + is_premium_brand,200,2160.184739936621,19.59202069193991,0.18890006407885493

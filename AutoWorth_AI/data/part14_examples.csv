@@ -1,0 +1,8 @@
+example,predicted_price,reliability,pair_count,seller_price,difference_gbp,below_market_pct,deal_key,deal_rating,deal_icon,difference_text,reliability_reasons
+asking price = 80% of the estimate,22836.0,Standard,1695,18250.0,4586.0,20.1,great,Great Deal,🟢,"£4,586 cheaper",
+asking price = 93% of the estimate,22836.0,Standard,1695,21250.0,1586.0,6.9,good,Good Deal,🟢,"£1,586 cheaper",
+asking price = 100% of the estimate,22836.0,Standard,1695,22850.0,-14.0,-0.1,fair,Fair Price,🟡,£14 more expensive,
+asking price = 107% of the estimate,22836.0,Standard,1695,24450.0,-1614.0,-7.1,slightly,Slightly Overpriced,🟠,"£1,614 more expensive",
+asking price = 120% of the estimate,22836.0,Standard,1695,27400.0,-4564.0,-20.0,over,Overpriced,🔴,"£4,564 more expensive",
+MPG and Tax left empty,23213.0,Check carefully,1695,21250.0,1963.0,8.5,good,Good Deal,🟢,"£1,963 cheaper","some details were filled in, not given"
+"expensive, rare car",68262.0,Check carefully,7,120000.0,-51738.0,-75.8,over,Overpriced,🔴,"£51,738 more expensive","estimate of £40,000 or more: few such cars in the training data and errors are larger | only 7 training cars of this make and model (fewer than 30)"

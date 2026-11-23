@@ -1,0 +1,7 @@
+stremlit/.venv/
+AutoWorth_AI/stremlit/.venv/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store

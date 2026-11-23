@@ -1,0 +1,8 @@
+# Pin pandas, numpy, scikit-learn and joblib to the versions used in Colab when the model and
+# preprocessor were saved (a different scikit-learn version can break loading the .joblib files).
+# Example:  scikit-learn==1.x.y
+streamlit
+pandas
+numpy
+scikit-learn
+joblib

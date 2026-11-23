@@ -1,0 +1,8 @@
+# scikit-learn MUST be exactly 1.6.1: preprocessor.joblib and random_forest.joblib were saved with it
+# (any other version can fail with "AttributeError: Can't get attribute '_RemainderColsList'").
+# Use Python 3.10 - 3.12 (3.12 was the one tested).
+scikit-learn==1.6.1
+numpy>=2.0,<2.3
+pandas>=2.2,<2.4
+joblib>=1.4
+streamlit

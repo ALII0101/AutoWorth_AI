@@ -1,0 +1,4 @@
+AutoWorth_AI/data/models/*.joblib filter=lfs diff=lfs merge=lfs -text
+AutoWorth_AI/data/models/*.rar filter=lfs diff=lfs merge=lfs -text
+AutoWorth_AI/data/models/*.zip filter=lfs diff=lfs merge=lfs -text
+AutoWorth_AI/stremlit/*.joblib filter=lfs diff=lfs merge=lfs -text

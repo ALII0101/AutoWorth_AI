@@ -1,0 +1,216 @@
+feature,group
+cont__mileage,cont
+cont__tax,cont
+cont__mpg,cont
+cont__engineSize,cont
+cont__car_age,cont
+cont__mileage_per_year,cont
+bin__is_premium_brand,bin
+cat__Make_Audi,cat
+cat__Make_BMW,cat
+cat__Make_Ford,cat
+cat__Make_Hyundai,cat
+cat__Make_Mercedes,cat
+cat__Make_Skoda,cat
+cat__Make_Toyota,cat
+cat__Make_Vauxhall,cat
+cat__Make_Volkswagen,cat
+cat__model_1 Series,cat
+cat__model_2 Series,cat
+cat__model_220,cat
+cat__model_3 Series,cat
+cat__model_4 Series,cat
+cat__model_5 Series,cat
+cat__model_6 Series,cat
+cat__model_7 Series,cat
+cat__model_8 Series,cat
+cat__model_A Class,cat
+cat__model_A1,cat
+cat__model_A3,cat
+cat__model_A4,cat
+cat__model_A5,cat
+cat__model_A6,cat
+cat__model_A7,cat
+cat__model_A8,cat
+cat__model_Accent,cat
+cat__model_Adam,cat
+cat__model_Agila,cat
+cat__model_Amarok,cat
+cat__model_Amica,cat
+cat__model_Ampera,cat
+cat__model_Antara,cat
+cat__model_Arteon,cat
+cat__model_Astra,cat
+cat__model_Auris,cat
+cat__model_Avensis,cat
+cat__model_Aygo,cat
+cat__model_B Class,cat
+cat__model_B-MAX,cat
+cat__model_Beetle,cat
+cat__model_C Class,cat
+cat__model_C-HR,cat
+cat__model_C-MAX,cat
+cat__model_CC,cat
+cat__model_CL Class,cat
+cat__model_CLA Class,cat
+cat__model_CLC Class,cat
+cat__model_CLK,cat
+cat__model_CLS Class,cat
+cat__model_Caddy,cat
+cat__model_Caddy Life,cat
+cat__model_Caddy Maxi,cat
+cat__model_Caddy Maxi Life,cat
+cat__model_California,cat
+cat__model_Camry,cat
+cat__model_Caravelle,cat
+cat__model_Cascada,cat
+cat__model_Citigo,cat
+cat__model_Combo Life,cat
+cat__model_Corolla,cat
+cat__model_Corsa,cat
+cat__model_Crossland X,cat
+cat__model_E Class,cat
+cat__model_EcoSport,cat
+cat__model_Edge,cat
+cat__model_Eos,cat
+cat__model_Fabia,cat
+cat__model_Fiesta,cat
+cat__model_Focus,cat
+cat__model_Fox,cat
+cat__model_Fusion,cat
+cat__model_G Class,cat
+cat__model_GL Class,cat
+cat__model_GLA Class,cat
+cat__model_GLB Class,cat
+cat__model_GLC Class,cat
+cat__model_GLE Class,cat
+cat__model_GLS Class,cat
+cat__model_GT86,cat
+cat__model_GTC,cat
+cat__model_Galaxy,cat
+cat__model_Getz,cat
+cat__model_Golf,cat
+cat__model_Golf SV,cat
+cat__model_Grand C-MAX,cat
+cat__model_Grand Tourneo Connect,cat
+cat__model_Grandland X,cat
+cat__model_Hilux,cat
+cat__model_I10,cat
+cat__model_I20,cat
+cat__model_I30,cat
+cat__model_I40,cat
+cat__model_I800,cat
+cat__model_IQ,cat
+cat__model_IX20,cat
+cat__model_IX35,cat
+cat__model_Insignia,cat
+cat__model_Ioniq,cat
+cat__model_Jetta,cat
+cat__model_KA,cat
+cat__model_Ka+,cat
+cat__model_Kadjar,cat
+cat__model_Kamiq,cat
+cat__model_Karoq,cat
+cat__model_Kodiaq,cat
+cat__model_Kona,cat
+cat__model_Kuga,cat
+cat__model_Land Cruiser,cat
+cat__model_M Class,cat
+cat__model_M2,cat
+cat__model_M3,cat
+cat__model_M4,cat
+cat__model_M5,cat
+cat__model_M6,cat
+cat__model_Meriva,cat
+cat__model_Mokka,cat
+cat__model_Mokka X,cat
+cat__model_Mondeo,cat
+cat__model_Mustang,cat
+cat__model_Octavia,cat
+cat__model_PROACE VERSO,cat
+cat__model_Passat,cat
+cat__model_Polo,cat
+cat__model_Prius,cat
+cat__model_Puma,cat
+cat__model_Q2,cat
+cat__model_Q3,cat
+cat__model_Q5,cat
+cat__model_Q7,cat
+cat__model_Q8,cat
+cat__model_R Class,cat
+cat__model_R8,cat
+cat__model_RAV4,cat
+cat__model_RS3,cat
+cat__model_RS4,cat
+cat__model_RS5,cat
+cat__model_RS6,cat
+cat__model_RS7,cat
+cat__model_Ranger,cat
+cat__model_Rapid,cat
+cat__model_Roomster,cat
+cat__model_S Class,cat
+cat__model_S-MAX,cat
+cat__model_S3,cat
+cat__model_S4,cat
+cat__model_S5,cat
+cat__model_S8,cat
+cat__model_SL CLASS,cat
+cat__model_SLK,cat
+cat__model_SQ5,cat
+cat__model_SQ7,cat
+cat__model_Santa Fe,cat
+cat__model_Scala,cat
+cat__model_Scirocco,cat
+cat__model_Sharan,cat
+cat__model_Shuttle,cat
+cat__model_Streetka,cat
+cat__model_Superb,cat
+cat__model_Supra,cat
+cat__model_T-Cross,cat
+cat__model_T-Roc,cat
+cat__model_TT,cat
+cat__model_Terracan,cat
+cat__model_Tigra,cat
+cat__model_Tiguan,cat
+cat__model_Tiguan Allspace,cat
+cat__model_Touareg,cat
+cat__model_Touran,cat
+cat__model_Tourneo Connect,cat
+cat__model_Tourneo Custom,cat
+cat__model_Transit Tourneo,cat
+cat__model_Tucson,cat
+cat__model_Up,cat
+cat__model_Urban Cruiser,cat
+cat__model_V Class,cat
+cat__model_Vectra,cat
+cat__model_Veloster,cat
+cat__model_Verso,cat
+cat__model_Verso-S,cat
+cat__model_Viva,cat
+cat__model_Vivaro,cat
+cat__model_X-CLASS,cat
+cat__model_X1,cat
+cat__model_X2,cat
+cat__model_X3,cat
+cat__model_X4,cat
+cat__model_X5,cat
+cat__model_X6,cat
+cat__model_X7,cat
+cat__model_Yaris,cat
+cat__model_Yeti,cat
+cat__model_Yeti Outdoor,cat
+cat__model_Z3,cat
+cat__model_Z4,cat
+cat__model_Zafira,cat
+cat__model_Zafira Tourer,cat
+cat__model_i3,cat
+cat__model_i8,cat
+cat__transmission_Automatic,cat
+cat__transmission_Manual,cat
+cat__transmission_Other,cat
+cat__transmission_Semi-Auto,cat
+cat__fuelType_Diesel,cat
+cat__fuelType_Electric,cat
+cat__fuelType_Hybrid,cat
+cat__fuelType_Other,cat
+cat__fuelType_Petrol,cat

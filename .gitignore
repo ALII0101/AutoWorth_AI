@@ -1,6 +1,7 @@
 stremlit/.venv/
 AutoWorth_AI/stremlit/.venv/
 .venv/
+.venv312/
 venv/
 __pycache__/
 *.pyc
